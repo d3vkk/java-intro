@@ -26,7 +26,7 @@ public class Student {
     */
     // Setters - set value from class
     public void setRegNo(String regNo){
-        this.regNo = name;
+        this.regNo = regNo;
     }
 
     // Getters - get value from class
