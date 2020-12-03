@@ -1,3 +1,5 @@
+package JavaIntro;
+
 public class FactorialRecursion {
     // this is a recursive method
     int fact(int n) {

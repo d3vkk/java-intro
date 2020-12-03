@@ -1,3 +1,5 @@
+package JavaIntro;
+
 public class Methods {
     public static int minFunction(int n1, int n2) {
         int min;

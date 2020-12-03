@@ -1,4 +1,4 @@
-package School.src;
+package JavaIntro.School.src;
 
 public class Student {
     // Instance variables

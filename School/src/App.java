@@ -1,4 +1,4 @@
-package School.src;
+package JavaIntro.School.src;
 
 public class App {
     // main function initialised
